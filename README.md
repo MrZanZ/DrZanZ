@@ -11,7 +11,7 @@
 - Dar Sugerencias sobre el Bot
 - Reportar Errores/Bugs de el Bot :shipit:
 
-**Para reportar un bug ve al apartado "issues"**
+**・Para reportar un bug ve al apartado "issues" y selecciona la opción "new" y ahí puedes personalizar la sugerencia/bug como quieras :bowtie:**
 
 #
 
