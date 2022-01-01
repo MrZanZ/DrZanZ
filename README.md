@@ -1,7 +1,7 @@
 
 <a  href="https://discord.gg/nwvaACqxaW"><img  src="https://img.shields.io/static/v1?label=ZanZLandia&message=MrZanZ&color=5865F2"></a>
   <a  href="https://discord.com/api/oauth2/authorize?client_id=917459531573887017&permissions=8&scope=bot"><img  src="https://img.shields.io/static/v1?label=Invitacion&message=MrZanZ&color=5865F2"></a>
-  <img src="https://media.discordapp.net/attachments/854114431932039179/926831483384135760/1_sin_titulo_20211231104551.png">
+  <img src="https://media.discordapp.net/attachments/854114431932039179/926888769460776990/1641048579740.png">
 
 # MrZanZ
 
